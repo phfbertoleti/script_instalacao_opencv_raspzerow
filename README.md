@@ -1,0 +1,1 @@
+# script_instalacao_opencv_raspzerow
