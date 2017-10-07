@@ -4,11 +4,10 @@ Neste repositório, você encontra um script completo para compilação e instal
 
 Para utilizar o script, faça o seguinte:
 
-1. Clone este repositório na sua Raspberry PI com o comando abaixo:
+1. Clone este repositório na sua Raspberry PI com o comando:
 git clone https://github.com/phfbertoleti/script_instalacao_opencv_raspzerow.git
 
-2. Entre no diretório resultante da etapa anterior e execute o script conforme abaixo:
-sudo ./InstalaOpenCV.sh
+2. Entre no diretório resultante da etapa anterior e execute o script desta forma: sudo ./InstalaOpenCV.sh
 
 3. Aguarde a compilação e instalação serem feitas. Este processo leva algumas horas.
 
